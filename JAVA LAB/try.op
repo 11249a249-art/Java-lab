@@ -1,0 +1,9 @@
+NAME       DAYS     BILL
+Aravind      28  2380.00
+Divya        30  2550.00
+Karthik      25  2125.00
+
+Student with highest bill:
+Name: Divya
+Days: 30
+Bill: Rs. 2550.00
